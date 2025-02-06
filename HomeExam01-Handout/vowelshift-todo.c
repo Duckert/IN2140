@@ -11,9 +11,16 @@
  */
 void vowelshift( char* buffer, char repl )
 {
-    /*
-     * You implement this
-     */
-    printf( "I do nothing yet.\n" );
+    const char *vowels = "aeiou";
+
+    for (int i = 0; i < strlen(buffer); i++) {
+        for (int j = 0; j < strlen(vowels); j++)
+        if (buffer[i] == vowels[j]) {
+            buffer[i] = repl;
+            break;
+        }
+    }
+    printf("%s\n", buffer);
+    printf( "I do something\n" );
 }
 
