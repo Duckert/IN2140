@@ -1,7 +1,0 @@
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/vowelshift.dir
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/stringops.dir
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/apple.dir
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/package.dir
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/package_source.dir
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/edit_cache.dir
-/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/rebuild_cache.dir

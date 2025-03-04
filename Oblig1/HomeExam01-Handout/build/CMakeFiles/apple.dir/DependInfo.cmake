@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-main.c" "CMakeFiles/apple.dir/apple-main.c.o" "gcc" "CMakeFiles/apple.dir/apple-main.c.o.d"
-  "/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.c" "CMakeFiles/apple.dir/apple-todo.c.o" "gcc" "CMakeFiles/apple.dir/apple-todo.c.o.d"
-  "/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/the_apple.c" "CMakeFiles/apple.dir/the_apple.c.o" "gcc" "CMakeFiles/apple.dir/the_apple.c.o.d"
+  "/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-main.c" "CMakeFiles/apple.dir/apple-main.c.o" "gcc" "CMakeFiles/apple.dir/apple-main.c.o.d"
+  "/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.c" "CMakeFiles/apple.dir/apple-todo.c.o" "gcc" "CMakeFiles/apple.dir/apple-todo.c.o.d"
+  "/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/the_apple.c" "CMakeFiles/apple.dir/the_apple.c.o" "gcc" "CMakeFiles/apple.dir/the_apple.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

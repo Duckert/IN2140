@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout
+CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build
+CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -85,14 +85,14 @@ clean: CMakeFiles/apple.dir/clean
 CMakeFiles/vowelshift.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/vowelshift.dir/build.make CMakeFiles/vowelshift.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/vowelshift.dir/build.make CMakeFiles/vowelshift.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=8,9,10 "Built target vowelshift"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=8,9,10 "Built target vowelshift"
 .PHONY : CMakeFiles/vowelshift.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/vowelshift.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/vowelshift.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles 0
 .PHONY : CMakeFiles/vowelshift.dir/rule
 
 # Convenience name for target.
@@ -111,14 +111,14 @@ CMakeFiles/vowelshift.dir/clean:
 CMakeFiles/stringops.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/stringops.dir/build.make CMakeFiles/stringops.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/stringops.dir/build.make CMakeFiles/stringops.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=5,6,7 "Built target stringops"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=5,6,7 "Built target stringops"
 .PHONY : CMakeFiles/stringops.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/stringops.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/stringops.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles 0
 .PHONY : CMakeFiles/stringops.dir/rule
 
 # Convenience name for target.
@@ -137,14 +137,14 @@ CMakeFiles/stringops.dir/clean:
 CMakeFiles/apple.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/apple.dir/build.make CMakeFiles/apple.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/apple.dir/build.make CMakeFiles/apple.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=1,2,3,4 "Built target apple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=1,2,3,4 "Built target apple"
 .PHONY : CMakeFiles/apple.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/apple.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/apple.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles 0
 .PHONY : CMakeFiles/apple.dir/rule
 
 # Convenience name for target.

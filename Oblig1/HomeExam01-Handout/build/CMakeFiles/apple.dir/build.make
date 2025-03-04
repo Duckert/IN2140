@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout
+CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build
+CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/apple.dir/depend.make
@@ -70,46 +70,46 @@ include CMakeFiles/apple.dir/progress.make
 include CMakeFiles/apple.dir/flags.make
 
 CMakeFiles/apple.dir/apple-main.c.o: CMakeFiles/apple.dir/flags.make
-CMakeFiles/apple.dir/apple-main.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-main.c
+CMakeFiles/apple.dir/apple-main.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-main.c
 CMakeFiles/apple.dir/apple-main.c.o: CMakeFiles/apple.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/apple.dir/apple-main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apple.dir/apple-main.c.o -MF CMakeFiles/apple.dir/apple-main.c.o.d -o CMakeFiles/apple.dir/apple-main.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/apple.dir/apple-main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apple.dir/apple-main.c.o -MF CMakeFiles/apple.dir/apple-main.c.o.d -o CMakeFiles/apple.dir/apple-main.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-main.c
 
 CMakeFiles/apple.dir/apple-main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/apple.dir/apple-main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-main.c > CMakeFiles/apple.dir/apple-main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-main.c > CMakeFiles/apple.dir/apple-main.c.i
 
 CMakeFiles/apple.dir/apple-main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/apple.dir/apple-main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-main.c -o CMakeFiles/apple.dir/apple-main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-main.c -o CMakeFiles/apple.dir/apple-main.c.s
 
 CMakeFiles/apple.dir/apple-todo.c.o: CMakeFiles/apple.dir/flags.make
-CMakeFiles/apple.dir/apple-todo.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.c
+CMakeFiles/apple.dir/apple-todo.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.c
 CMakeFiles/apple.dir/apple-todo.c.o: CMakeFiles/apple.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/apple.dir/apple-todo.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apple.dir/apple-todo.c.o -MF CMakeFiles/apple.dir/apple-todo.c.o.d -o CMakeFiles/apple.dir/apple-todo.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/apple.dir/apple-todo.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apple.dir/apple-todo.c.o -MF CMakeFiles/apple.dir/apple-todo.c.o.d -o CMakeFiles/apple.dir/apple-todo.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.c
 
 CMakeFiles/apple.dir/apple-todo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/apple.dir/apple-todo.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.c > CMakeFiles/apple.dir/apple-todo.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.c > CMakeFiles/apple.dir/apple-todo.c.i
 
 CMakeFiles/apple.dir/apple-todo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/apple.dir/apple-todo.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.c -o CMakeFiles/apple.dir/apple-todo.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.c -o CMakeFiles/apple.dir/apple-todo.c.s
 
 CMakeFiles/apple.dir/the_apple.c.o: CMakeFiles/apple.dir/flags.make
-CMakeFiles/apple.dir/the_apple.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/the_apple.c
+CMakeFiles/apple.dir/the_apple.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/the_apple.c
 CMakeFiles/apple.dir/the_apple.c.o: CMakeFiles/apple.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/apple.dir/the_apple.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apple.dir/the_apple.c.o -MF CMakeFiles/apple.dir/the_apple.c.o.d -o CMakeFiles/apple.dir/the_apple.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/the_apple.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/apple.dir/the_apple.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/apple.dir/the_apple.c.o -MF CMakeFiles/apple.dir/the_apple.c.o.d -o CMakeFiles/apple.dir/the_apple.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/the_apple.c
 
 CMakeFiles/apple.dir/the_apple.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/apple.dir/the_apple.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/the_apple.c > CMakeFiles/apple.dir/the_apple.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/the_apple.c > CMakeFiles/apple.dir/the_apple.c.i
 
 CMakeFiles/apple.dir/the_apple.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/apple.dir/the_apple.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/the_apple.c -o CMakeFiles/apple.dir/the_apple.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/the_apple.c -o CMakeFiles/apple.dir/the_apple.c.s
 
 # Object files for target apple
 apple_OBJECTS = \
@@ -125,7 +125,7 @@ apple: CMakeFiles/apple.dir/apple-todo.c.o
 apple: CMakeFiles/apple.dir/the_apple.c.o
 apple: CMakeFiles/apple.dir/build.make
 apple: CMakeFiles/apple.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable apple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable apple"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/apple.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -137,6 +137,6 @@ CMakeFiles/apple.dir/clean:
 .PHONY : CMakeFiles/apple.dir/clean
 
 CMakeFiles/apple.dir/depend:
-	cd /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/apple.dir/DependInfo.cmake --color=$(COLOR)
+	cd /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles/apple.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/apple.dir/depend
 

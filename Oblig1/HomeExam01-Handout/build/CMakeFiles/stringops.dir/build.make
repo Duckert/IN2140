@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout
+CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build
+CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/stringops.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/stringops.dir/progress.make
 include CMakeFiles/stringops.dir/flags.make
 
 CMakeFiles/stringops.dir/stringops-main.c.o: CMakeFiles/stringops.dir/flags.make
-CMakeFiles/stringops.dir/stringops-main.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-main.c
+CMakeFiles/stringops.dir/stringops-main.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-main.c
 CMakeFiles/stringops.dir/stringops-main.c.o: CMakeFiles/stringops.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/stringops.dir/stringops-main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/stringops.dir/stringops-main.c.o -MF CMakeFiles/stringops.dir/stringops-main.c.o.d -o CMakeFiles/stringops.dir/stringops-main.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/stringops.dir/stringops-main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/stringops.dir/stringops-main.c.o -MF CMakeFiles/stringops.dir/stringops-main.c.o.d -o CMakeFiles/stringops.dir/stringops-main.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-main.c
 
 CMakeFiles/stringops.dir/stringops-main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stringops.dir/stringops-main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-main.c > CMakeFiles/stringops.dir/stringops-main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-main.c > CMakeFiles/stringops.dir/stringops-main.c.i
 
 CMakeFiles/stringops.dir/stringops-main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stringops.dir/stringops-main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-main.c -o CMakeFiles/stringops.dir/stringops-main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-main.c -o CMakeFiles/stringops.dir/stringops-main.c.s
 
 CMakeFiles/stringops.dir/stringops-todo.c.o: CMakeFiles/stringops.dir/flags.make
-CMakeFiles/stringops.dir/stringops-todo.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-todo.c
+CMakeFiles/stringops.dir/stringops-todo.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-todo.c
 CMakeFiles/stringops.dir/stringops-todo.c.o: CMakeFiles/stringops.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/stringops.dir/stringops-todo.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/stringops.dir/stringops-todo.c.o -MF CMakeFiles/stringops.dir/stringops-todo.c.o.d -o CMakeFiles/stringops.dir/stringops-todo.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-todo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/stringops.dir/stringops-todo.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/stringops.dir/stringops-todo.c.o -MF CMakeFiles/stringops.dir/stringops-todo.c.o.d -o CMakeFiles/stringops.dir/stringops-todo.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-todo.c
 
 CMakeFiles/stringops.dir/stringops-todo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/stringops.dir/stringops-todo.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-todo.c > CMakeFiles/stringops.dir/stringops-todo.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-todo.c > CMakeFiles/stringops.dir/stringops-todo.c.i
 
 CMakeFiles/stringops.dir/stringops-todo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/stringops.dir/stringops-todo.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-todo.c -o CMakeFiles/stringops.dir/stringops-todo.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-todo.c -o CMakeFiles/stringops.dir/stringops-todo.c.s
 
 # Object files for target stringops
 stringops_OBJECTS = \
@@ -109,7 +109,7 @@ stringops: CMakeFiles/stringops.dir/stringops-main.c.o
 stringops: CMakeFiles/stringops.dir/stringops-todo.c.o
 stringops: CMakeFiles/stringops.dir/build.make
 stringops: CMakeFiles/stringops.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable stringops"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable stringops"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/stringops.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/stringops.dir/clean:
 .PHONY : CMakeFiles/stringops.dir/clean
 
 CMakeFiles/stringops.dir/depend:
-	cd /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/stringops.dir/DependInfo.cmake --color=$(COLOR)
+	cd /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles/stringops.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/stringops.dir/depend
 

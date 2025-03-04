@@ -1,5 +1,5 @@
 CMakeFiles/stringops.dir/stringops-todo.c.o: \
- /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-todo.c \
+ /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-todo.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
@@ -32,4 +32,4 @@ CMakeFiles/stringops.dir/stringops-todo.c.o: \
  /usr/include/bits/pthreadtypes-arch.h /usr/include/bits/struct_mutex.h \
  /usr/include/bits/struct_rwlock.h /usr/include/alloca.h \
  /usr/include/bits/stdlib-float.h \
- /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/stringops-todo.h
+ /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/stringops-todo.h

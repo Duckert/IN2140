@@ -1,5 +1,5 @@
 CMakeFiles/apple.dir/apple-todo.c.o: \
- /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.c \
+ /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.c \
  /usr/include/stdc-predef.h /usr/include/stdio.h \
  /usr/include/bits/libc-header-start.h /usr/include/features.h \
  /usr/include/features-time64.h /usr/include/bits/wordsize.h \
@@ -32,4 +32,4 @@ CMakeFiles/apple.dir/apple-todo.c.o: \
  /usr/include/bits/stdlib-float.h /usr/include/string.h \
  /usr/include/bits/types/locale_t.h /usr/include/bits/types/__locale_t.h \
  /usr/include/strings.h \
- /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/apple-todo.h
+ /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/apple-todo.h

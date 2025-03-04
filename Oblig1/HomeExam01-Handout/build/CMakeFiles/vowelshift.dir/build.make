@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout
+CMAKE_SOURCE_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build
+CMAKE_BINARY_DIR = /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/vowelshift.dir/depend.make
@@ -70,32 +70,32 @@ include CMakeFiles/vowelshift.dir/progress.make
 include CMakeFiles/vowelshift.dir/flags.make
 
 CMakeFiles/vowelshift.dir/vowelshift-main.c.o: CMakeFiles/vowelshift.dir/flags.make
-CMakeFiles/vowelshift.dir/vowelshift-main.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-main.c
+CMakeFiles/vowelshift.dir/vowelshift-main.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-main.c
 CMakeFiles/vowelshift.dir/vowelshift-main.c.o: CMakeFiles/vowelshift.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/vowelshift.dir/vowelshift-main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/vowelshift.dir/vowelshift-main.c.o -MF CMakeFiles/vowelshift.dir/vowelshift-main.c.o.d -o CMakeFiles/vowelshift.dir/vowelshift-main.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/vowelshift.dir/vowelshift-main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/vowelshift.dir/vowelshift-main.c.o -MF CMakeFiles/vowelshift.dir/vowelshift-main.c.o.d -o CMakeFiles/vowelshift.dir/vowelshift-main.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-main.c
 
 CMakeFiles/vowelshift.dir/vowelshift-main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/vowelshift.dir/vowelshift-main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-main.c > CMakeFiles/vowelshift.dir/vowelshift-main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-main.c > CMakeFiles/vowelshift.dir/vowelshift-main.c.i
 
 CMakeFiles/vowelshift.dir/vowelshift-main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/vowelshift.dir/vowelshift-main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-main.c -o CMakeFiles/vowelshift.dir/vowelshift-main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-main.c -o CMakeFiles/vowelshift.dir/vowelshift-main.c.s
 
 CMakeFiles/vowelshift.dir/vowelshift-todo.c.o: CMakeFiles/vowelshift.dir/flags.make
-CMakeFiles/vowelshift.dir/vowelshift-todo.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-todo.c
+CMakeFiles/vowelshift.dir/vowelshift-todo.c.o: /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-todo.c
 CMakeFiles/vowelshift.dir/vowelshift-todo.c.o: CMakeFiles/vowelshift.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/vowelshift.dir/vowelshift-todo.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/vowelshift.dir/vowelshift-todo.c.o -MF CMakeFiles/vowelshift.dir/vowelshift-todo.c.o.d -o CMakeFiles/vowelshift.dir/vowelshift-todo.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-todo.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/vowelshift.dir/vowelshift-todo.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/vowelshift.dir/vowelshift-todo.c.o -MF CMakeFiles/vowelshift.dir/vowelshift-todo.c.o.d -o CMakeFiles/vowelshift.dir/vowelshift-todo.c.o -c /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-todo.c
 
 CMakeFiles/vowelshift.dir/vowelshift-todo.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/vowelshift.dir/vowelshift-todo.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-todo.c > CMakeFiles/vowelshift.dir/vowelshift-todo.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-todo.c > CMakeFiles/vowelshift.dir/vowelshift-todo.c.i
 
 CMakeFiles/vowelshift.dir/vowelshift-todo.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/vowelshift.dir/vowelshift-todo.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/vowelshift-todo.c -o CMakeFiles/vowelshift.dir/vowelshift-todo.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/vowelshift-todo.c -o CMakeFiles/vowelshift.dir/vowelshift-todo.c.s
 
 # Object files for target vowelshift
 vowelshift_OBJECTS = \
@@ -109,7 +109,7 @@ vowelshift: CMakeFiles/vowelshift.dir/vowelshift-main.c.o
 vowelshift: CMakeFiles/vowelshift.dir/vowelshift-todo.c.o
 vowelshift: CMakeFiles/vowelshift.dir/build.make
 vowelshift: CMakeFiles/vowelshift.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable vowelshift"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable vowelshift"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/vowelshift.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -121,6 +121,6 @@ CMakeFiles/vowelshift.dir/clean:
 .PHONY : CMakeFiles/vowelshift.dir/clean
 
 CMakeFiles/vowelshift.dir/depend:
-	cd /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/HomeExam01-Handout/build/CMakeFiles/vowelshift.dir/DependInfo.cmake --color=$(COLOR)
+	cd /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build /uio/hume/student-u73/niteigen/Desktop/IN2140/Oblig1/HomeExam01-Handout/build/CMakeFiles/vowelshift.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/vowelshift.dir/depend
 
